@@ -1,0 +1,15 @@
+C:\Users\perfe\Desktop\Turism_WebAPI-tmp\Turism_WebAPI-tmp\turismdatafetch\bin\Debug\net8.0\turismdatafetch.exe
+C:\Users\perfe\Desktop\Turism_WebAPI-tmp\Turism_WebAPI-tmp\turismdatafetch\bin\Debug\net8.0\turismdatafetch.deps.json
+C:\Users\perfe\Desktop\Turism_WebAPI-tmp\Turism_WebAPI-tmp\turismdatafetch\bin\Debug\net8.0\turismdatafetch.runtimeconfig.json
+C:\Users\perfe\Desktop\Turism_WebAPI-tmp\Turism_WebAPI-tmp\turismdatafetch\bin\Debug\net8.0\turismdatafetch.dll
+C:\Users\perfe\Desktop\Turism_WebAPI-tmp\Turism_WebAPI-tmp\turismdatafetch\bin\Debug\net8.0\turismdatafetch.pdb
+C:\Users\perfe\Desktop\Turism_WebAPI-tmp\Turism_WebAPI-tmp\turismdatafetch\obj\Debug\net8.0\turismdatafetch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\perfe\Desktop\Turism_WebAPI-tmp\Turism_WebAPI-tmp\turismdatafetch\obj\Debug\net8.0\turismdatafetch.AssemblyInfoInputs.cache
+C:\Users\perfe\Desktop\Turism_WebAPI-tmp\Turism_WebAPI-tmp\turismdatafetch\obj\Debug\net8.0\turismdatafetch.AssemblyInfo.cs
+C:\Users\perfe\Desktop\Turism_WebAPI-tmp\Turism_WebAPI-tmp\turismdatafetch\obj\Debug\net8.0\turismdatafetch.csproj.CoreCompileInputs.cache
+C:\Users\perfe\Desktop\Turism_WebAPI-tmp\Turism_WebAPI-tmp\turismdatafetch\obj\Debug\net8.0\turismdatafetch.sourcelink.json
+C:\Users\perfe\Desktop\Turism_WebAPI-tmp\Turism_WebAPI-tmp\turismdatafetch\obj\Debug\net8.0\turismdatafetch.dll
+C:\Users\perfe\Desktop\Turism_WebAPI-tmp\Turism_WebAPI-tmp\turismdatafetch\obj\Debug\net8.0\refint\turismdatafetch.dll
+C:\Users\perfe\Desktop\Turism_WebAPI-tmp\Turism_WebAPI-tmp\turismdatafetch\obj\Debug\net8.0\turismdatafetch.pdb
+C:\Users\perfe\Desktop\Turism_WebAPI-tmp\Turism_WebAPI-tmp\turismdatafetch\obj\Debug\net8.0\turismdatafetch.genruntimeconfig.cache
+C:\Users\perfe\Desktop\Turism_WebAPI-tmp\Turism_WebAPI-tmp\turismdatafetch\obj\Debug\net8.0\ref\turismdatafetch.dll
